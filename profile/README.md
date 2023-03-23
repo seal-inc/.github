@@ -1,4 +1,6 @@
-### Seal says 👋
+<img src="https://user-images.githubusercontent.com/15829238/227100637-439b3361-5ef9-4767-aba1-56da5a3de8dd.png" width="200" height="200">
+
+### Seal says "arf arf arf"
 
 ### Join us where smart contracts happen :)
 
