@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/15829238/227100637-439b3361-5ef9-4767-aba1-56da5a3de8dd.png" width="200" height="200">
+<img src="https://github.com/seal-inc/.github/assets/15829238/e5d70e2c-bc13-4878-9b2e-a7c9141f55ba" width="200" height="200">
 
 ![seal02](https://github.com/seal-inc/.github/assets/15829238/e5d70e2c-bc13-4878-9b2e-a7c9141f55ba)
 
