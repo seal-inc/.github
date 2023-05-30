@@ -1,7 +1,5 @@
 <img src="https://github.com/seal-inc/.github/assets/15829238/e5d70e2c-bc13-4878-9b2e-a7c9141f55ba" width="250" height="250">
 
-### Seal says "arf arf arf"
-
 ### Join us where smart contracts happen :)
 
 <!--
